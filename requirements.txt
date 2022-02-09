@@ -1,0 +1,6 @@
+pyopenssl
+dnspython
+aiohttp
+validators
+requests
+bs4
